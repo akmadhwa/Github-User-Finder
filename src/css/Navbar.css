@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:700");
+
+.navbar_title {
+  margin-left: 20px;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+
+.navbar_logo {
+    font-size: 30px;
+}
